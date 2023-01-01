@@ -1,4 +1,5 @@
 configuration {
+    font: "CaskaydiaCove Nerd Font 10";
     modes: [ combi, drun, run ];
     combi-modes: [ window, drun, run ];
 }
